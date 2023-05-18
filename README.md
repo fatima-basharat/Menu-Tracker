@@ -1,5 +1,5 @@
 # Menu-Tracker
-This Menu-Tracker is a full stack CRUD web app that allows users to keep all their favorite restaurant menu's in one place.
+This Menu-Tracker is a full stack CRUD web app that allows users to keep all their favorite restaurant menus in one place.
 
 <img width="1440" alt="menutracker" src="https://github.com/fatima-basharat/Menu-Tracker/assets/117535181/f378ebad-66ea-4e27-9d93-6e0b302b25f9">
 
